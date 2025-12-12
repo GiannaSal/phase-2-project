@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#to prevent over failing coz of im.db file size
+unzippedData/im.db
+unzippedData/
+*.db
