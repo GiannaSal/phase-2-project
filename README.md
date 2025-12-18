@@ -211,8 +211,6 @@ Notes
 
 
     
-<<<<<<< HEAD
-    
 
 ## Box Office EDA: Consistently Top-Performing Genres and Studios (2010–2018)
 
@@ -303,5 +301,11 @@ To answer the business question exactly as stated (Question 1 as part of the ove
 	2.	Re-run the same yearly aggregation + ranking + stability framework using worldwide gross as the earnings metric, now grouped by genre.
 	3.	Add budget (where available) to shift from “gross” to ROI, because high gross can still be a poor business if costs are extreme.
 	4.	Stress-test results using medians (not just means), inflation adjustment, and separating franchise sequels from originals, so the final recommendation reflects a strategy the studio can actually replicate.
-=======
->>>>>>> a088877d4350c1fb718055c2222bca6f03f34ef7
+
+[Tableau Dashboard](https://public.tableau.com/app/profile/innocent.moruri/viz/Group3Analysis1-DirectorWriterImpactonBudgetPerformance/Dashboard1)
+
+<img width="1304" height="749" alt="Screenshot 2025-12-18 at 18 08 07" src="https://github.com/user-attachments/assets/a980b826-6866-426d-88a7-a5d5e3bfc153" />
+
+
+
+
